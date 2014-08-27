@@ -1,0 +1,17 @@
+﻿Build started 7/22/2014 6:02:37 PM.
+     1>Project "C:\Users\Mohamed\Documents\Visual Studio 2012\Projects\Chess\Chess\Chess.vcxproj" on node 2 (Build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Chess.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Chess.vcxproj -> C:\Users\Mohamed\Documents\Visual Studio 2012\Projects\Chess\Debug\Chess.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Chess.unsuccessfulbuild".
+         Touching "Debug\Chess.lastbuildstate".
+     1>Done Building Project "C:\Users\Mohamed\Documents\Visual Studio 2012\Projects\Chess\Chess\Chess.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.07
